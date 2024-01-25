@@ -6,7 +6,7 @@ Pillow
 ffmpeg-python
 ffmpeg
 sqlalchemy==1.3.23
-pyrogram
+git+https://github.com/MKN-BOTZ/pyrogram
 requests
 psycopg2-binary
 feedparser
